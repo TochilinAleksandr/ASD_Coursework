@@ -1,0 +1,4 @@
+﻿  course.cpp
+D:\АИСД\course\course\Ford.h(65,7): warning C4101: buf1: неиспользованная локальная переменная
+D:\АИСД\course\course\Ford.h(65,13): warning C4101: buf2: неиспользованная локальная переменная
+  course.vcxproj -> D:\АИСД\course\Debug\course.exe

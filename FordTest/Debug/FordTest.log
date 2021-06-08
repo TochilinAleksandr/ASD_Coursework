@@ -1,0 +1,5 @@
+﻿  FordTest.cpp
+D:\АИСД\course\course\Ford.h(65,7): warning C4101: buf1: неиспользованная локальная переменная
+D:\АИСД\course\course\Ford.h(65,13): warning C4101: buf2: неиспользованная локальная переменная
+     Создается библиотека D:\АИСД\course\Debug\FordTest.lib и объект D:\АИСД\course\Debug\FordTest.exp
+  FordTest.vcxproj -> D:\АИСД\course\Debug\FordTest.dll
